@@ -79,7 +79,7 @@ Add your Tableau Public link here.
 Example:
 
 ```
-https://public.tableau.com/views/your-dashboard-link
+https://public.tableau.com/app/profile/sree.valli.mallela/viz/RetailSalesAnalysisDashboard_17733470326990/Dashboard1?publish=yes
 ```
 
 ---
